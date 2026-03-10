@@ -109,7 +109,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">KMB Dhammavaddhana</h3>
                 <span className="qualification__subtitle">Activist</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - 2024
                 </div>
               </div>
 
@@ -130,7 +130,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">GDSC BINUS Malang</h3>
                 <span className="qualification__subtitle">Member</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - 2024
                 </div>
               </div>
 

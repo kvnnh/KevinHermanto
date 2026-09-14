@@ -15,6 +15,7 @@ import Work14 from "../../assets/AlongWithTheClown.png";
 import Work15 from "../../assets/AzureSoulMaze.png";
 import IllustrationWork1 from "../../assets/Illustration1.jpeg";
 import IllustrationWork2 from "../../assets/Illustration2.jpeg";
+import Work16 from "../../assets/MyMovie.png";
 
 export const projectsData = [
     {
@@ -41,8 +42,16 @@ export const projectsData = [
     category: "Game",
     link : "https://etherealm.itch.io/cat-rescue",
   },
-    {
+        {
     id: 4,
+    image: Work16,
+    title: "MyMovie",
+    info: "Next.js, Firebase",
+    category: "Web",
+    link : "https://movie-collection-xi-eosin.vercel.app/movies",
+  },
+    {
+    id: 5,
     image: IllustrationWork2,
     title: "My Illustration Work #2",
     info: "Infinity Design",
@@ -50,7 +59,7 @@ export const projectsData = [
     link : "https://www.instagram.com/p/DVjCq1uEUvU/?stkn=MXcyMGo3MGhscGM2YQ==",
   },
    {
-    id: 5,
+    id: 6,
     image: IllustrationWork1,
     title: "My Illustration Work #1",
     info: "Infinity Design",
@@ -58,7 +67,7 @@ export const projectsData = [
     link : "https://www.instagram.com/p/DViEQ9VEXvY/?stkn=MXF2ODcybGxiNDN3eA==",
   },
     {
-    id: 6,
+    id: 7,
     image: Work12,
     title: "The Last One (2025)",
     info: "Unity, C#, Krita, Aseprite",
@@ -66,7 +75,7 @@ export const projectsData = [
     link : "",
   },
   {
-    id: 7,
+    id: 8,
     image: Work9,
     title: "EstateVerse",
     info: "PHP, Laravel",
@@ -74,7 +83,7 @@ export const projectsData = [
     link : "",
   },
   {
-    id: 8,
+    id: 9,
     image: Work8,
     title: "Portofolio Website",
     info: "React JS, HTML, CSS",
@@ -82,7 +91,7 @@ export const projectsData = [
     link: "https://kvnnh.github.io/KevinHermanto/",
   },
   {
-    id: 9,
+    id: 10,
     image: Work1,
     title: "Youtube Clone",
     info: "HTML, CSS",
@@ -90,7 +99,7 @@ export const projectsData = [
     link: "https://github.com/kvnnh/YoutubeClone",
   },
   {
-    id: 10,
+    id: 11,
     image: Work2,
     title: "The Last One",
     info: "Unity, C#, Krita",
@@ -98,7 +107,7 @@ export const projectsData = [
     link: "https://github.com/kvnnh/The-Last-One"
   },
   {
-    id: 11,
+    id: 12,
     image: Work3,
     title: "Magic Wizard Typing Game",
     info: "Unity, C#",
@@ -106,7 +115,7 @@ export const projectsData = [
     link: "https://github.com/kvnnh/Magic-Wizard-Typing-Game",
   },
   {
-    id: 12,
+    id: 13,
     image: Work10,
     title: "Benang.com",
     info: "Figma",
@@ -114,7 +123,7 @@ export const projectsData = [
     link: "https://www.figma.com/design/FiBLl2WKaP2OUgOOraqyPv/LnTMidProject_UI%2FUX-A_Kevin-Hermanto?node-id=0-1&t=XZk1izmwiBgyz2vn-1",
   },
   {
-    id: 13,
+    id: 14,
     image: Work4,
     title: "Research Paper ICCSCI",
     info: "MBTI Prediction with Text Classification",
@@ -122,7 +131,7 @@ export const projectsData = [
     link: "https://drive.google.com/drive/folders/1qXkcGYRXD0Tn3N8WqAPnpMl1oc2SkzsP",
   },
   {
-    id: 14,
+    id: 15,
     image: Work5,
     title: "Mindshare",
     info: "Figma",
@@ -130,7 +139,7 @@ export const projectsData = [
     link: "https://www.figma.com/design/OKbEjDYKwnQdpWyQ4CGofa/Software-Engineering---Mindshare?node-id=0-1&t=rrtpBAUWtKePJeMI-1",
   },
   {
-    id: 15,
+    id: 16,
     image: Work6,
     title: "Cinemate",
     info : "Figma",
@@ -138,7 +147,7 @@ export const projectsData = [
     link: "https://www.figma.com/design/YK2gchXgiVWm9GODH865f5/IT-DIV-FINAL-PROJECT?node-id=0-1&t=4obL6UaGuTXnP9ct-1",
   },
   {
-    id: 16,
+    id: 17,
     image: Work11,
     title: "Calm",
     info : "Figma",
@@ -146,7 +155,7 @@ export const projectsData = [
     link: "https://www.figma.com/design/rb4FB5VUc5jIdOgttu6i2L/Kevin-Hermanto_Design-Calm?node-id=0-1&t=1RZKyQ7Y5xX0gknC-1",
   },
   {
-    id: 17,
+    id: 18,
     image: Work7,
     title: "My Wallet",
     info: "Figma",

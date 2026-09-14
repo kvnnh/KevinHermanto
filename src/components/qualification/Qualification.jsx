@@ -31,7 +31,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Computer Science</h3>
                 <span className="qualification__subtitle">BINUS University</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2022 - Present
+                  <i className="uil uil-calendar-alt"></i> 2022 - 2026
                 </div>
               </div>
 
